@@ -1,4 +1,4 @@
-# 숫자 카드 2
+# 숫자 카드 2 - 아직 못 품..
 number_card_count = int(input())
 number_card_list = list(map(int, input().split()))
 calculation_work_count = int(input())
